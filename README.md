@@ -1,23 +1,16 @@
-<div align="center">
+ <div align="center">
 
-<!-- Replace the banner URL below with a custom banner image if you create one. -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:071A14,50:064E3B,100:10B981&text=SACHIN%20GUPTA&fontColor=ECFDF5&fontSize=42&fontAlignY=38&desc=APPLIED%20AI%20%7C%20FULL-STACK%20%7C%20DSA&descAlignY=59&descSize=16" width="100%" alt="Sachin Gupta — Applied AI, Full-Stack, DSA" />
 
 <br/>
 
-<a href="https://github.com/s1729-ai">
-  <img src="https://img.shields.io/badge/GitHub-s1729--ai-071A14?style=for-the-badge&logo=github&logoColor=ECFDF5" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/sachin-gupta-507500301">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:sachingupta28022007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://github.com/s1729-ai"><img src="https://img.shields.io/badge/GitHub-s1729--ai-071A14?style=for-the-badge&logo=github&logoColor=ECFDF5" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/sachin-gupta-507500301"><img src="https://img.shields.io/badge/LinkedIn-Connect-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sachingupta28022007@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-> **Turning complex problems into explainable AI systems and useful software.**
+**Turning complex problems into explainable AI systems and useful software.**
 
 *Computer Science & Engineering student at ABES Engineering College · Ghaziabad, India*
 
@@ -37,8 +30,8 @@ I'm a B.Tech Computer Science and Engineering student who enjoys building practi
 - 🧠 **AI/ML:** NLP, transformers, Generative AI, text processing and explainable recommendations
 - 🛠️ **Engineering:** React, TypeScript, Flask, REST APIs and end-to-end application development
 - ⚡ **Problem solving:** 300+ LeetCode problems solved; CodeChef 2-star rating
-- 🌱 **Currently focused on:** stronger DSA fundamentals, useful AI products, and production-minded engineering
-- 🤝 **Open to:** meaningful collaborations, open-source contributions and challenging projects
+- 🌱 **Currently focused on:** Stronger DSA fundamentals, useful AI products, and production-minded engineering
+- 🤝 **Open to:** Meaningful collaborations, open-source contributions and challenging projects
 
 ---
 
@@ -46,10 +39,11 @@ I'm a B.Tech Computer Science and Engineering student who enjoys building practi
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode-300%2B%20problems-065F46?style=flat-square&logo=leetcode&logoColor=white" alt="300+ LeetCode problems"/>
-<img src="https://img.shields.io/badge/HackLLM-Top%205-047857?style=flat-square&logo=google-scholar&logoColor=white" alt="Top 5 HackLLM"/>
-<img src="https://img.shields.io/badge/CodeChef-2%20Star-064E3B?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef 2-star"/>
-<img src="https://img.shields.io/badge/IBM-PBEL%20Generative%20AI-065F46?style=flat-square&logo=ibm&logoColor=white" alt="IBM PBEL Generative AI internship"/>
+<a href="https://leetcode.com/u/sachingupta28021/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-065F46?style=flat-square&logo=leetcode&logoColor=white" alt="300+ LeetCode problems"/></a>
+<a href="https://github.com/s1729-ai/IS-Standard-Advisor"><img src="https://img.shields.io/badge/IS%20Standard%20Advisor-AI%20Project-047857?style=flat-square&logo=github&logoColor=white" alt="IS Standard Advisor"/></a>
+<a href="https://github.com/s1729-ai/ClearMed_IIIT_Delhi"><img src="https://img.shields.io/badge/HackLLM-Top%205-064E3B?style=flat-square&logo=github&logoColor=white" alt="HackLLM Top 5"/></a>
+<a href="https://www.codechef.com/users/s_1729"><img src="https://img.shields.io/badge/CodeChef-2%20Star-065F46?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef 2-star"/></a>
+<img src="https://img.shields.io/badge/IBM-PBEL%20Generative%20AI-047857?style=flat-square&logo=ibm&logoColor=white" alt="IBM PBEL Generative AI internship"/>
 
 </div>
 
@@ -57,7 +51,8 @@ I'm a B.Tech Computer Science and Engineering student who enjoys building practi
 
 ## `03 / SELECTED.WORK`
 
-### 01 — IS Standard Advisor
+### 01 — [IS Standard Advisor](https://github.com/s1729-ai/IS-Standard-Advisor)
+
 **AI-powered Indian Standards recommendation engine**
 
 A full-stack platform designed to extract technical specifications, identify relevant Indian Standard (IS) codes, and flag standards that may be outdated, superseded or withdrawn.
@@ -68,14 +63,15 @@ A full-stack platform designed to extract technical specifications, identify rel
 
 `React` `TypeScript` `Python` `Flask` `NLP` `NER` `TF-IDF`
 
-**Repository:** [Add your IS Standard Advisor repository URL here](https://github.com/s1729-ai)
+**Repository:** [View IS Standard Advisor](https://github.com/s1729-ai/IS-Standard-Advisor)
 
 ---
 
-### 02 — Medical Text Summarization LLM
+### 02 — [ClearMed: Medical Text Summarization LLM](https://github.com/s1729-ai/ClearMed_IIIT_Delhi)
+
 **GPT-2-based medical text summarization**
 
-Built a medical text summarization system using a GPT-2-based language model, with training and inference workflows and a web interface. The project was developed without relying on external APIs.
+Built a medical text summarization system using a GPT-2-based language model, with training and inference workflows and a web interface. Developed without relying on external APIs.
 
 - Worked with **1,000+ medical text samples**
 - Implemented data preparation, training and inference workflows
@@ -83,11 +79,12 @@ Built a medical text summarization system using a GPT-2-based language model, wi
 
 `Python` `PyTorch` `GPT-2` `Transformers` `NLP`
 
-**Repository:** [Add your Medical Text Summarization repository URL here](https://github.com/s1729-ai)
+**Repository:** [View ClearMed — IIIT Delhi](https://github.com/s1729-ai/ClearMed_IIIT_Delhi)
 
 ---
 
 ### 03 — Text-to-Image Story Generator
+
 **From written stories to visual outputs**
 
 Created an AI-powered tool that processes story text and maps it to relevant visual outputs.
@@ -98,16 +95,14 @@ Created an AI-powered tool that processes story text and maps it to relevant vis
 
 `Python` `JavaScript` `HTML` `CSS` `Generative AI`
 
-**Repository:** [Add your Text-to-Image Story Generator repository URL here](https://github.com/s1729-ai)
+**Repository:** Add the actual repository URL when available.
 
 ---
 
 ### More engineering work
 
-- **Enginow — Open-source contributor:** worked on UI components and page content across 3+ pages for GoEazy, and carried out competitor and feature-gap analysis for DevCollab.
-- **Uniserve:** pitched a student freelance marketplace at the ABESEC E-Cell SQUID GAME entrepreneurship event; runner-up.
-
-> **Project links:** The resume provided the project names and technical details, but not their individual repository URLs. Replace the three project links above with the correct repository URLs before publishing. The current links intentionally lead to your GitHub account rather than pretending to be specific repositories.
+- **Enginow — Open-source contributor:** Worked on UI components and page content across 3+ pages for GoEazy, and carried out competitor and feature-gap analysis for DevCollab.
+- **Uniserve:** Pitched a student freelance marketplace at the ABESEC E-Cell SQUID GAME entrepreneurship event; runner-up.
 
 ---
 
@@ -149,25 +144,22 @@ Created an AI-powered tool that processes story text and maps it to relevant vis
 
 <div align="center">
 
-<!-- Replace YOUR_LEETCODE_USERNAME with your actual LeetCode username. -->
-<a href="https://leetcode.com/">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics card — replace YOUR_LEETCODE_USERNAME with your username" width="500"/>
+<a href="https://leetcode.com/u/sachingupta28021/">
+  <img src="https://leetcard.jacoblin.cool/sachingupta28021?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics for sachingupta28021" width="500"/>
 </a>
 
 <br/>
 
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20solved-065F46?style=for-the-badge&logo=leetcode&logoColor=white" alt="300+ problems solved"/>
-</a>
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-2%20Star-064E3B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2-star"/>
-</a>
+<a href="https://leetcode.com/u/sachingupta28021/"><img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-065F46?style=for-the-badge&logo=leetcode&logoColor=white" alt="300+ problems solved"/></a>
+<a href="https://www.codechef.com/users/s_1729"><img src="https://img.shields.io/badge/CodeChef-2%20Star-064E3B?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef 2-star"/></a>
+
+<br/>
+
+**[LeetCode Profile](https://leetcode.com/u/sachingupta28021/) · [CodeChef Profile](https://www.codechef.com/users/s_1729)**
 
 </div>
 
 I practise problem solving across arrays, strings, hash maps, recursion, linked lists, stacks, queues and trees.
-
-**LeetCode profile:** Add your exact LeetCode profile URL when ready.
 
 ---
 
@@ -194,13 +186,14 @@ I practise problem solving across arrays, strings, hash maps, recursion, linked 
 
 ## `07 / CONTRIBUTION.SNAKE`
 
-<!-- This image appears after the GitHub Actions workflow below has generated the SVG. -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s1729-ai/s1729-ai/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s1729-ai/s1729-ai/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation eating the GitHub contribution grid" src="https://raw.githubusercontent.com/s1729-ai/s1729-ai/output/github-contribution-grid-snake.svg" width="100%"/>
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/s1729-ai/s1729-ai/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/s1729-ai/s1729-ai/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation eating the GitHub contribution grid" src="https://raw.githubusercontent.com/s1729-ai/s1729-ai/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 ### Enable the snake animation
@@ -208,8 +201,9 @@ I practise problem solving across arrays, strings, hash maps, recursion, linked 
 1. Open your profile repository: **[s1729-ai/s1729-ai](https://github.com/s1729-ai/s1729-ai)**.
 2. Open the **Actions** tab and enable GitHub Actions if prompted.
 3. Create `.github/workflows/snake.yml` with the workflow below.
-4. Commit the file to your default branch, then open **Actions** and run **Generate contribution snake** once if needed.
-5. The workflow publishes SVG files to the `output` branch. If the image doesn't appear immediately, check that the workflow succeeded and that the `output` branch exists.
+4. Commit the file to your default branch.
+5. Open **Actions** and run **Generate contribution snake** once if needed.
+6. The workflow publishes SVG files to the `output` branch.
 
 Create `.github/workflows/snake.yml`:
 
@@ -238,6 +232,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Publish SVG files
         uses: peaceiris/actions-gh-pages@v4
         with:
@@ -246,7 +241,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-If your default branch is not `main`, update the `push.branches` value to match it. The workflow needs repository Actions permissions enabled.
+If your default branch is not `main`, update `push.branches` to match it. Ensure repository Actions permissions are enabled. The snake images will appear once the workflow runs successfully and creates the `output` branch.
 
 ---
 
@@ -257,13 +252,17 @@ If your default branch is not `main`, update the `push.branches` value to match 
 - **Top 5 Finalist — HackLLM, ESYA, IIIT Delhi**
 - **Runner-up — SQUID GAME Entrepreneurship Event, ABESEC E-Cell**
 - **Campus Ambassador — eDC, IIT Delhi**
-- **Certifications:** AWS Academy Graduate — Generative AI Foundations; Agents and Workflows — OpenAI; Digital Application Fundamentals (STEM) — NASSCOM
+- **Certifications:**
+  - AWS Academy Graduate — Generative AI Foundations
+  - Agents and Workflows — OpenAI
+  - Digital Application Fundamentals (STEM) — NASSCOM
 
 ---
 
 ## `09 / EDUCATION`
 
-**ABES Engineering College, Ghaziabad**  
+**ABES Engineering College, Ghaziabad**
+
 B.Tech, Computer Science and Engineering · AKTU · 2024–2028
 
 ---
@@ -274,15 +273,9 @@ B.Tech, Computer Science and Engineering · AKTU · 2024–2028
 
 **Have an interesting problem or project in mind? Let's connect.**
 
-<a href="https://www.linkedin.com/in/sachin-gupta-507500301">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:sachingupta28022007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20hello-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://github.com/s1729-ai">
-  <img src="https://img.shields.io/badge/GitHub-Follow-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<a href="https://www.linkedin.com/in/sachin-gupta-507500301"><img src="https://img.shields.io/badge/LinkedIn-Connect-065F46?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sachingupta28022007@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-047857?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/s1729-ai"><img src="https://img.shields.io/badge/GitHub-Follow-064E3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
